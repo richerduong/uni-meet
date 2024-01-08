@@ -26,5 +26,5 @@ Uni Meet is a social connectivity platform specifically designed for university 
 - **User-Friendly Interface**: Enjoy a clean, intuitive interface designed for a seamless user experience.
 
 <!--Visit the live site to see my work in action: [richerduong.com](https://richerduong.com)-->
-
+<br><br>
 *Created by Richer Duong*
